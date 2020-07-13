@@ -1,16 +1,26 @@
-### Hi there 👋
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoKyuWon"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/ChoKyuWon?label=ChoKyuWon%20Followers&style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
 
-<!--
-**ChoKyuWon/ChoKyuWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ChoKyuWon : Security Researcher
 
-Here are some ideas to get you started:
+Interested in System Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- C/C++
+- Python
+- Rust
+- Ghidra
+- Radare2
+
+<a href="https://chokyuwon.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://chokyuwon.github.io"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
