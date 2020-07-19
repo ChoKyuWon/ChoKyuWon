@@ -1,14 +1,15 @@
 ![Github Status](https://github-readme-stats.vercel.app/api?username=chokyuwon&show_icons=true)
 
+![C++](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=C%2B%2B&logoColor=fff)
+![Python](https://img.shields.io/badge/-python-ff69b4?style=for-the-badge&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-lightgrey?style=for-the-badge&logo=Rust&logoColor=000)
+
 ## ChoKyuWon : Security Researcher
 
-Interested in System Security.
+Interested in System Security. 
 
-## Stack
-
-- C/C++
-- Python
-- Rust
+## Tools
+- IDA Pro
 - Ghidra
 - Radare2
 
