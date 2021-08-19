@@ -1,5 +1,5 @@
 ![Github Status](https://github-readme-stats.vercel.app/api?username=chokyuwon&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoKyuWon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoKyuWon&layout=compact&langs_count=6&hide=D,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C++](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=C%2B%2B&logoColor=fff)
 ![Python](https://img.shields.io/badge/-python-ff69b4?style=for-the-badge&logo=python&logoColor=fff)
