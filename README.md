@@ -5,17 +5,19 @@
 ![Python](https://img.shields.io/badge/-python-ff69b4?style=for-the-badge&logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-lightgrey?style=for-the-badge&logo=Rust&logoColor=000)  
 ![Follower](https://img.shields.io/github/followers/ChoKyuWon?label=ChoKyuWon%20Followers&style=social)
-## ChoKyuWon : Security Researcher
+## ChoKyuWon : System Security Researcher
 
-Interested in System Security. 
+Master course student in SSLab@SKKU. 
 
-## Tools
-- IDA Pro
-- Ghidra
-- Radare2  
-  
-[![Tech Blog](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://chokyuwon.github.io)](https://chokyuwon.github.io)
+## Interested in
+- Compiler-aided security
+- Fuzzing/Testing
+- Decompilation
+- Kernel hacking
+- Virtualization
+ 
+<!-- [![Tech Blog](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://chokyuwon.github.io)](https://chokyuwon.github.io) -->
 <hr>
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/version-0.0.1-blue)
+![Version](https://img.shields.io/badge/version-0.0.2-blue)
