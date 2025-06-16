@@ -6,7 +6,7 @@
 
 
 
-<p> I am a first-year PhD student at <a href="https://cse.skku.edu/">Department of Computer Science and Engineering</a>, <a href="https://skku.edu/">SungKyunKwan University</a>, where I am advised by Professor <a href="https://hojoon-lee.github.io/">Hojoon Lee</a>. My research interests include software and system security. My papers <a href="https://scholar.google.com/citations?user=AjgaSMoAAAAJ"><img src="https://img.shields.io/badge/-abcdef?logo=GoogleScholar"></a> have been published in top-tier conferences in the field of security such as CCS, Usenix Security. Contact me at kyuwon DOT cho AT skku Dot edu. For more information, please visit my <a href="https://chokyuwon.github.io/">personal homepage</a>.</p> 
+<p> I am a PhD candidate at <a href="https://cse.skku.edu/">Department of Computer Science and Engineering</a>, <a href="https://skku.edu/">SungKyunKwan University</a>, where I am advised by Professor <a href="https://hojoon-lee.github.io/">Hojoon Lee</a>. My research interests include software and system security. My papers <a href="https://scholar.google.com/citations?user=AjgaSMoAAAAJ"><img src="https://img.shields.io/badge/-abcdef?logo=GoogleScholar"></a> have been published in top-tier conferences in the field of security, such as CCS, Usenix Security. Contact me at kyuwon DOT cho AT skku Dot edu. For more information, please visit my <a href="https://chokyuwon.github.io/">personal homepage</a>.</p> 
         
 ###
 
